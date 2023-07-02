@@ -1,3 +1,4 @@
+![logo](https://raw.githubusercontent.com/dayan2222/dayan2222/main/Clean%20Work%20Place%20Blog%20Banner.png)
 <h1 align="center">Hi 👋, I'm Dayan Ahmed</h1>
 <h3 align="center">Full Stack Engineer</h3>
 
@@ -7,7 +8,7 @@
 
 - 🌱 I’m currently learning **AI Tools**
 
-- 💬 Ask me about **Python, Laravel, React, Node, and React Native**
+- 💬 Ask me about **Python, Laravel, React, Node, React Native**
 
 - 📫 How to reach me **dayanahmed2222@gmail.com**
 
