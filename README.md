@@ -10,7 +10,6 @@
 
 - 💬 Ask me about **Python, Laravel, React, Node, React Native**
 
-- 📫 How to reach me **dayanahmed2222@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
