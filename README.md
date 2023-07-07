@@ -1,4 +1,4 @@
-![logo](https://raw.githubusercontent.com/dayan2222/dayan2222/main/Clean%20Work%20Place%20Blog%20Banner.png)
+![logo](https://github.com/dayan2222/dayan2222/blob/main/dayanahmed%20Fullstack%20Developer.png)
 <h1 align="center">Hi 👋, I'm Dayan Ahmed</h1>
 <h3 align="center">Full Stack Engineer</h3>
 
